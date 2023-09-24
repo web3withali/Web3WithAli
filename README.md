@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋, I'm Aijaz Ali
 
-<!--
-**web3withali/Web3WithAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**web3withali/Web3WithAli** is a ✨ _special_ ✨ repository because its `README.md` (### Hi 👋, I'm Aijaz Ali) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate Full Stack developer 
+
+- 🌱 I’m currently learning react js & DevOps tools Cyber Security.Ethical Hacking.Bug Hunt;
+  👨‍💻 All of my projects are available at https://github.com/web3withali
+- 💬 Ask me about:Web developing;
+- 📫 How to reach me: aijazraisani28@gmail.com
+- 📄 Know about my experiences https://github.com/web3withali
+- Connect with me:
+
+ 
